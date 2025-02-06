@@ -1,8 +1,11 @@
 ﻿1. 노션 - 수업 관련된 전반적인 내용
 https://www.notion.so/AI-77027785b107408d9ad13d0b6e2ecf5d
 
-2. 수업 관련
-	2-1) Python 
+2. 아나콘다 설치
+	https://docs.google.com/presentation/d/1zFfVgOwP_iq0Vo3B5yAVcwJFhzbKbhK_28XaY2uWfN0/edit?usp=sharing
+
+3. 수업 관련
+	3-1) Python 
 		일별 수업 내용 : https://docs.google.com/spreadsheets/d/1DeiN2c3I4n_aT8na1Aa8AGRaUmxvMaYj-1KN-ku-FiM/edit?usp=sharing
 		PPT  :  https://docs.google.com/presentation/d/1kI2CFa_z78DAVb4wt7gCZLV8XnpZQ8gSZz2G_FQprJo/edit?usp=sharing
  	
