@@ -1,5 +1,5 @@
 ﻿1. 노션 - 수업 관련된 전반적인 내용
- 	https://www.notion.so/AI-77027785b107408d9ad13d0b6e2ecf5d
+ 	https://actually-cashew-8f4.notion.site/AI-77027785b107408d9ad13d0b6e2ecf5d?pvs=4
 
 2. 아나콘다 설치
 	https://docs.google.com/presentation/d/1zFfVgOwP_iq0Vo3B5yAVcwJFhzbKbhK_28XaY2uWfN0/edit?usp=sharing
